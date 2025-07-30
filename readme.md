@@ -12,6 +12,7 @@ Baymax is an AI-powered healthcare application designed to predict potential dis
 - Backend: Django
 - Database: PostgreSQL
 - Machine Learning: Scikit-Learn
+- LLM: Gemini
 - Map Integration: Geoapify
 
 ## Installation
